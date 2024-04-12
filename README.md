@@ -1,10 +1,6 @@
 # Build a SaaS App with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
 
 
-## Get all the help you need
-Join the Community for FREE if you want to learn how to make money this year with websites! Share all bugs and solutions in the discord. Would love to collaborate and get to know talented developers like yourself. 
-[Discord](https://discord.gg/GG4wJkxh)
-
 
 ### Features in this application.
 
