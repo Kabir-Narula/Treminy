@@ -110,7 +110,7 @@ const Signup = () => {
             className="font-semibold
           dark:text-white text-4xl first-letter:ml-2"
           >
-            Treminy
+            cypress.
           </span>
         </Link>
         <FormDescription

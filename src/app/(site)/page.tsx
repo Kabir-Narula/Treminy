@@ -52,7 +52,7 @@ const HomePage = () => {
             bg-background
           "
           >
-            Get Treminy Free
+            Get Cypress Free
           </Button>
         </div>
         <div
