@@ -1,29 +1,36 @@
-# Build a SaaS App with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
+# Treminy
 
-# Tutorial Link - https://youtu.be/mGUHHmI0fUY?si=L0vYeW-cq0fRt4oy
+Collaborative workspace app inspired by Notion — realtime document editing, team presence, subscriptions, and rich text.
 
+Built as a full-stack learning project and extended with my own features on top of the base architecture.
 
-### Features in this application.
+## Features
 
-- 🤯 Real-time cursors
-- 📝 Real-time text selection
-- ⏱️ Real-time database and collaboration
-- 🟢 Real-time presence
-- 🗑️ Move to trash functionality
-- 😜 Custom emoji picker
-- 🌙 Light mode dark mode
-- 🚨 Next.js 13 app router
-- 🗺️ Creating free plan restrictions
-- 💰 Take monthly payments
-- 📧 Custom email 2FA invitation
-- ⚡️ Supabase Row level policy
-- 👨‍👨‍👧‍👦 Real-time Collaboration
-- 👾 Deployment
-- 🤑 Custom Rich text editor
-- 📚 Update profile settings
-- 📍 Manage payments in a portal
-- 🔐 Custom Authentication
-- ✳️ Websockets
-- 📣 Optimistic UI
-- 📱 Responsive design
+- Realtime cursors and text selection
+- Rich text editor with collaborative updates
+- Workspaces, folders, and trash recovery
+- Stripe subscription billing
+- Supabase auth and row-level security
+- Light / dark mode
 
+## Stack
+
+Next.js · TypeScript · Supabase · Drizzle ORM · Stripe · Tailwind · Radix UI · Socket collaboration layer
+
+## Run locally
+
+```bash
+git clone https://github.com/Kabir-Narula/Treminy.git
+cd Treminy
+npm install
+```
+
+Configure `.env` with Supabase, Stripe, and database keys (see `.env.example` if present).
+
+```bash
+npm run dev
+```
+
+## Author
+
+Kabir Narula — [GitHub](https://github.com/Kabir-Narula)
